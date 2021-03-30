@@ -11,7 +11,3 @@ if (daysSince < 1) {
     displayedDate = `${Math.floor(daysSince)} Days Ago`;
 }
 timeSinceEl.textContent = displayedDate;
-
-const section1 = document.querySelector(".section--1");
-const section2 = document.querySelector(".section--2");
-const section3 = document.querySelector(".section--3");
