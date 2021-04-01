@@ -144,9 +144,12 @@ p {
     padding-bottom: 1rem;
 }
 
+.contents li {
+    color: white;
+}
+
 footer {
     display: flex;
     justify-content: center;
     padding-bottom: 2.3rem;
 }
-
